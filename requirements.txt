@@ -1,2 +1,9 @@
+mediapipe
+numpy
 openai
+opencv_contrib_python
+opencv_python
+Pillow
+protobuf
+Requests
 streamlit
