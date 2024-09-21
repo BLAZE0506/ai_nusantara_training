@@ -1,7 +1,7 @@
 mediapipe
 numpy
 openai
-opencv-python-headless
+opencv-contrib-python
 Pillow
 protobuf
 Requests
